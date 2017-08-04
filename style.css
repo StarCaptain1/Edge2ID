@@ -1,0 +1,49 @@
+body {
+	font-size: 1em;
+	margin: 0 auto;
+	font-family: sans-serif;
+	background: #23232D;
+	line-height: 20px;
+}
+
+.wrapper {
+	width: 900px;
+	margin: 30px auto;
+	background: #EEE;
+	padding: 50px;
+	box-shadow: 1px 1px 1px #CCC;
+}
+
+input {
+	font-family: sans-serif;
+}
+
+.submit {
+	width: 300px;
+	margin: 10px auto;
+	padding: 10px;
+	font-size: 15px;
+}
+
+.match-item, .form-element {
+	padding: 20px;
+	margin: 0 0 30px 0;
+	box-shadow: 1px 1px 1px #CCC;
+	border: 1px solid #CCC;
+	background: #FFF;
+	line-height: 26px;
+}
+
+#loading {
+	text-align: center;
+	width: 600px;
+	margin: 300px auto;
+	color: #FFF;
+	font-size: 2em;
+}
+
+textarea {
+	width: 400px;
+	height: 400px;
+	font-size: 16px;
+}
